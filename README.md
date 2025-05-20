@@ -1,4 +1,4 @@
-# judul
+# Judul
 IoT Flood Monitoring System with ESP32 & HC-SR04
  # Deskripsi Singkat
  Proyek ini akan menghadirkan sistem pemantauan banjir sederhana berbasis ESP32 yang mengukur ketinggian air menggunakan sensor ultrasonik HC-SR04, mengirimkan data ke Blynk untuk visualisasi real-time, serta memberikan indikator lokal via LED dan buzzer. Sistem dirancang untuk memudahkan deteksi dini kenaikan air, mendukung aksi cepat, dan dapat diimplementasikan dengan komponen minimal.
