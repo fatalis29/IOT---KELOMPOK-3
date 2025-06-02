@@ -8,13 +8,13 @@ IoT Flood Monitoring System with ESP32 & HC-SR04
  2. SDG 13: Climate Action – Mendukung mitigasi dampak perubahan iklim lewat sistem peringatan dini bencana banjir
 
 # Gambar Skema Blok Sistem
-<img width="265" alt="Screenshot 2025-06-02 at 07 50 53" src="https://github.com/user-attachments/assets/d2b33cee-4ea8-494f-8657-3f86edcb5d2a" />
 
  # Penjelasan Singkat Skema Blok Sistem
  
 Input: HC-SR04 Ultrasonic Sensor
 HC-SR04 menggunakan dua pin—Trig (D5) dan Echo (D18)—untuk menghitung jarak ke permukaan air 
-. Sensor dipasang sedemikian rupa sehingga gelombang ultrasonik dipantulkan oleh permukaan air dan diterima kembali, memberikan pembacaan jarak dalam sentimeter 
+. Sensor dipasang sedemikian rupa sehingga gelombang ultrasonik dipantulkan oleh permukaan air dan diterima kembali, memberikan pembacaan jarak dalam sentimeter ![WhatsApp Image 2025-06-02 at 10 32 01](https://github.com/user-attachments/assets/d0a1f1bc-d548-48e3-93ff-8de9eedba781)
+
 
 Proses: ESP32 DevKit V1
 ESP32 membaca sinyal Echo dari HC-SR04 dan mengonversi durasi pulsa menjadi jarak (cm) menggunakan rumus waktu × kecepatan suara/2 
