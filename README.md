@@ -8,7 +8,9 @@ IoT Flood Monitoring System with ESP32 & HC-SR04
  2. SDG 13: Climate Action – Mendukung mitigasi dampak perubahan iklim lewat sistem peringatan dini bencana banjir
 
 # Gambar Skema Blok Sistem
-<img width="265" alt="Screenshot 2025-06-02 at 07 50 53" src="https://github.com/user-attachments/assets/d2b33cee-4ea8-494f-8657-3f86edcb5d2a" />
+![WhatsApp Image 2025-06-02 at 10 32 01](https://github.com/user-attachments/assets/6fda2b67-67c7-460f-977a-036b5c50d030)
+
+
 
  # Penjelasan Singkat Skema Blok Sistem
  
