@@ -46,3 +46,7 @@ Bagi pengembang teknologi: Memberikan referensi implementasi nyata IoT dalam sol
 Bagi pemerintah/relawan: Mendukung pengambilan keputusan cepat dalam evakuasi dan mitigasi bencana.
 
 Bagi pendidikan: Memberikan contoh aplikatif dari penerapan sensor, mikrokontroler, dan cloud IoT dalam kehidupan nyata.
+
+#HARDWARE
+![image](https://github.com/user-attachments/assets/6a8e7586-8d06-4094-93b7-275c2718f110)
+
