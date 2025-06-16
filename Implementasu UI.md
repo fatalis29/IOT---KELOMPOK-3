@@ -1,4 +1,4 @@
-**Pendahuluan**
+#Pendahuluan
 Bencana banjir merupakan salah satu permasalahan lingkungan yang sering terjadi di berbagai wilayah Indonesia. Banjir tidak hanya mengakibatkan kerugian material, tetapi juga berdampak serius terhadap keselamatan jiwa, kesehatan masyarakat, serta gangguan pada aktivitas sosial dan ekonomi. Oleh karena itu, diperlukan sistem peringatan dini yang efektif untuk memantau ketinggian air secara real-time dan memberikan peringatan cepat kepada masyarakat agar dapat mengambil langkah mitigasi yang tepat.
 
 Seiring dengan berkembangnya teknologi Internet of Things (IoT), kini dimungkinkan untuk membangun sistem pemantauan banjir berbasis sensor yang terhubung ke internet dan dapat diakses dari mana saja. Teknologi ini memungkinkan pengukuran otomatis terhadap ketinggian air dan pengiriman data secara langsung ke dashboard digital yang dapat dimonitor oleh warga, relawan, maupun otoritas terkait.
