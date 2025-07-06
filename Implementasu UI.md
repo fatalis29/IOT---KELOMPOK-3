@@ -50,3 +50,11 @@ Bagi pendidikan: Memberikan contoh aplikatif dari penerapan sensor, mikrokontrol
 # HARDWARE
 ![image](https://github.com/user-attachments/assets/6a8e7586-8d06-4094-93b7-275c2718f110)
 
+# UI SOFTWARE via BLYNK
+## UI Dasboard Web
+![image](https://github.com/user-attachments/assets/652edbaf-bfbf-49b8-8d67-098b6bb5e467)
+
+## UI Dasboard Mobile
+![image](https://github.com/user-attachments/assets/e29beb1c-8c55-413f-a189-97124337eadd)
+
+
